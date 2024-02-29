@@ -3,4 +3,5 @@ def fun():
 
 def make():
     print("okdokokdo")
-    print("jdjddotan")
+    print("dopi")
+    x = 1
