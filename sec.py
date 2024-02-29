@@ -4,3 +4,4 @@ def fun():
 def make():
     print("okdokokdo")
     print("jdjddotan")
+    print("knjndjn")
