@@ -1,4 +1,4 @@
-def fun():
+def func():
     print("mkmkmkmk")
 
 def make():
