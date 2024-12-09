@@ -1,4 +1,4 @@
-def func():
+def funcDotan():
     print("mkmkmkmk")
 
 def make():
